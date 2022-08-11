@@ -1,0 +1,6 @@
+Reproduire l'aspect et le comportement des 4 liens en haut de la page https://www.w3schools.com/css/css_link.asp
+Le fichier HTML est donné ainsi que le début du CSS.
+
+Il faut utiliser uniquement les comportements par défaut (:link) et au survol (:hover) avec les pseudo-sélecteurs :link et :hover pour chaque lien.
+
+

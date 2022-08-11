@@ -1,0 +1,24 @@
+h1{
+    background-color: mediumslateblue;
+    color: azure;
+    padding: 15px;
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lien:hover{
+    color: orange;
+}
+
+.lien:link{
+    color: pink;
+}
+
+.lien:visited{
+    color: purple;
+}

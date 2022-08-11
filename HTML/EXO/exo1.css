@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+article{
+    padding: 15px;
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    max-width: 300px;
+
+}

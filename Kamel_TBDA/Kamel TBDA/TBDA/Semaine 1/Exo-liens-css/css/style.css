@@ -1,0 +1,62 @@
+
+nav{
+    background-color: whitesmoke;
+    margin: auto;
+    min-width: 100%;
+    padding: 30px;
+    text-align: center;
+}
+a{
+    margin: auto 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+/* lien 1 */
+#link1:link {
+    color: black;
+}
+
+#link1:hover {
+    color: green;
+}
+#link1:active {
+    color: blueviolet;
+}
+
+#link2:link {
+    color: red;
+}
+
+#link2:hover {
+    color: purple;
+}
+#link2 :visited{
+    color: brown;
+}
+#button1:link {
+    color: hotpink;
+    padding: 5px 15px;
+    border: 2px solid black;
+    border-radius: .5rem;
+
+
+}
+#button1:visited{
+    color: aqua;
+}
+
+#button1:hover {
+    color: orange;
+    background-color: aqua;
+}
+#button2:link {
+    color: aqua;
+}
+
+#button2:hover {
+    color: chartreuse;
+}
+
+

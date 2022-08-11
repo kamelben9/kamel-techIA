@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+}
+.flex100 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: lightgray;
+  text-align: center;
+}
+.flex50 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  background-color: bisque;
+  text-align: center;
+}
+@media screen and (max-width:450px){
+    .flex100, .flex50{
+        flex-direction: column;
+    }
+}

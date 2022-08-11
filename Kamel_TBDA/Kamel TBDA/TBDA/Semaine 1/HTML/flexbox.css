@@ -1,0 +1,26 @@
+.element{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.e1{
+    background-color: orange;
+}
+.e2{
+    background-color: blue;
+}
+.e3{
+    background-color: green;
+}
+.conteneur{
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.element:nth-child(3){
+    align-self: flex-end;
+}
